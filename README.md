@@ -52,21 +52,3 @@ The MIT License(http://opensource.org/licenses/MIT)
 
 Please feel free to use and contribute to the development.
 
-## Contribution
-
-If you have any ideas or suggestions to improve Amazon-scrapy, welcome to submit an issue/pull request.
-
-## Backer
-> 您的支持是我们坚持的最大动力。
-
-<img src="https://raw.githubusercontent.com/dynamohuang/dynamohuang.github.io/master/alipay.png" height="300px" alt="打赏">
-<img src="https://raw.githubusercontent.com/dynamohuang/dynamohuang.github.io/master/weixinpay.png" height="300px" alt="打赏">
-
-### Thanks
-
-| Backer | Fee |
-| --- | --- |
-| Jet.Zhang | ￥18.88 |
-| Mike | ￥18.88 |
-| 飞龙 | ￥5 |
-
